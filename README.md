@@ -22,5 +22,5 @@ The purpose of the project it display my method for coding in HTML and CSS and b
 - add JS event handler to make the enter keyboard button accessible with JS to capture name and return cost. 
 - add another div with nested div's with ids which return cost and a messages but coded with JS. 
 
-#Known Bugs: 
+# Known Bugs: 
 None as of now since the design focues on a HTML and css Appoach: 
