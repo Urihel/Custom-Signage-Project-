@@ -5,13 +5,13 @@ A Custon Name Signage project which calculates the cost it takes to print your n
 Urihel Coleman
 
 # Nature Of Project: 
-The purpose of the project it display my method for coding in HTML and CSS and bringing basic projects to life. The best way to describe the way i code, is to keep things simple. I feel that because you can do so much with a div element in html and as long as you know how to control it's properties you're able to continue to use those elements to continue to build faster. In addition i know in my project i used text inside div's i will describe in detail how i got text to work inside some of the divs. 
+The purpose of the project it display my method for coding in HTML and CSS and bringing basic projects to life. The best way to describe the way i code, is to keep things simple. I feel that because you can do so much with a div element in html and as long as you know how to control it's properties with CSS you're able to make it seem as if your using a header element or paragraph element with the use of a div. In addition i know in my project i used text inside div's i will describe in detail how i got text to work inside some of the divs. and how i used css to change text properties.  
 
 1. div id="namePlaqueBackground" - I created this container using a div html and with the Id attribute. I decided to go this route in designing my container element, mainly becuase div elements are designed for being containers. Becuase Id's can do so much more things id's designing with css very simple and straight forward. 
 
 2. div id="title" - because my experience with HTML and CSS decided to design my title with a div because i understand how to control the properties in css and make it appear as if you were using any of the 6 header elements that are currently present in html today. 
 
-3.div id="enterName">Enter Name: - once again im pretty much doing the same with this div element like in example no.2
+3. div id="enterName">Enter Name: - once again im pretty much doing the same with this div element like in example no.2
 
 4.input type="text" id="fullName" placeholder="Enter Your Name Here" - for this section of the code i decided to use input type text to create a text box where you could type text too. with css i was able to enlarge it change the font-color, size, and family. what you can also do with a input type text is with js youre able to collect data that is typed inside of it and use it to post messages or for instance in my case because the project a cost per letter. 
 
