@@ -1,6 +1,9 @@
 # Custom-Signage-Project-
 A Custon Name Signage project which calculates the cost it takes to print your name onto a sign based on a per letter basis.
 
+# Author:
+Urihel Coleman
+
 # Nature Of Project: 
 The purpose of the project it display my method for coding in HTML and CSS and bringing basic projects to life. The best way to describe the way i code, is to keep things simple. I feel that because you can do so much with a div element in html and as long as you know how to control it's properties you're able to continue to use those elements to continue to build faster. In addition i know in my project i used text inside div's i will describe in detail how i got text to work inside some of the divs. 
 
