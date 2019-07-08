@@ -9,7 +9,7 @@ The purpose of the project it display my method for coding in HTML and CSS and b
 
 1. div id="namePlaqueBackground" - I created this container using a div html and with the Id attribute. I decided to go this route in designing my container element, mainly becuase div elements are designed for being containers. Becuase Id's can do so much more things id's designing with css very simple and straight forward. 
 
-2. div id="title" - because my experience with HTML and CSS i typically design in html mostly just using div elements. In this section of my code i decided to use a div because the nature of the properties that are tied to any of the header elements if html. In order for me to design my title was just add a few css properites and values to them to make my title of the project to stand out just like any other header element. 
+2. div id="title" - because my experience with HTML and CSS decided to design my title with a div because i understand how to control the properties in css and make it appear as if you were using any of the 6 header elements that are currently present in html today. 
 
 3.div id="enterName">Enter Name: - once again im pretty much doing the same with this div element like in example no.2
 
